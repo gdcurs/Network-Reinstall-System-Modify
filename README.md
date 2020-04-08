@@ -3,6 +3,7 @@ It can reinstall CentOS, Debian, Ubuntu, Windows 2003, 7, 2008R2, 2012R2, 2016, 
 
 [One-click Network Reinstall System – Magic Modify version](https://tech.cxthhhhh.com/linux/2018/11/27/original-one-click-network-reinstall-system-magic-modify-version-for-linux-windows-en.html), Forked from [MoeClub Vicer](https://moeclub.org/2018/04/03/603/), technical support and maintenance provided by [Technical Blog | 技術博客](https://tech.cxthhhhh.com/), more features of the magic version are constantly increasing.
 
+## link：wget –no-check-certificate https://raw.githubusercontent.com/MeowLove/Network-Reinstall-System-Modify/master/Network-Reinstall-System-Modify.sh && chmod a+x Network-Reinstall-System-Modify.sh
 
 ## Realistic Demand
 Why do we need to reinstall a pure system?
