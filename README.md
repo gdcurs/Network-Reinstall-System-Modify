@@ -14,27 +14,35 @@ wget –no-check-certificate https://raw.githubusercontent.com/MeowLove/Network-
 ①. 一键网络重装纯净 CentOS 8（推荐）
 
 bash Network-Reinstall-System-Modify.sh -CentOS_8
+
 ②. 一键网络重装纯净CentOS 7
 
 bash Network-Reinstall-System-Modify.sh -CentOS_7
+
 ③. 一键网络重装纯净CentOS 6
 
 bash Network-Reinstall-System-Modify.sh -CentOS_6
+
 ④. 一键网络重装纯净Debian 9（推荐）
 
 bash Network-Reinstall-System-Modify.sh -Debian_9
+
 ⑤. 一键网络重装纯净Debian 8
 
 bash Network-Reinstall-System-Modify.sh -Debian_8
+
 ⑥. 一键网络重装纯净Debian 7
 
 bash Network-Reinstall-System-Modify.sh -Debian_7
+
 ⑦. 一键网络重装纯净Ubuntu 18.04（推荐）
 
 bash Network-Reinstall-System-Modify.sh -Ubuntu_18.04
+
 ⑧. 一键网络重装纯净Ubuntu 16.04
 
 bash Network-Reinstall-System-Modify.sh -Ubuntu_16.04
+
 ⑨. 一键网络重装纯净Ubuntu 14.04
 
 bash Network-Reinstall-System-Modify.sh -Ubuntu_14.04
@@ -45,18 +53,23 @@ bash Network-Reinstall-System-Modify.sh -Ubuntu_14.04
 ①. 一键网络重装纯净Windows Server 2019（推荐）
 
 bash Network-Reinstall-System-Modify.sh -Windows_Server_2019
+
 ②. 一键网络重装纯净Windows Server 2016
 
 bash Network-Reinstall-System-Modify.sh -Windows_Server_2016
+
 ③. 一键网络重装纯净Windows Server 2012 R2
 
 bash Network-Reinstall-System-Modify.sh -Windows_Server_2012R2
+
 ④. 一键网络重装纯净Windows Server 2008 R2
 
 bash Network-Reinstall-System-Modify.sh -Windows_Server_2008R2
+
 ⑤. 一键网络重装纯净Windows 7
 
 bash Network-Reinstall-System-Modify.sh -Windows_7_Vienna
+
 ⑥. 一键网络重装纯净Windows Server 2003
 
 bash Network-Reinstall-System-Modify.sh -Windows_Server_2003
